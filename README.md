@@ -129,3 +129,11 @@ Currently, I am focused on strengthening my expertise in:
 - **📘 Facebook:** [facebook.com/ho.hoang.nam.319393](https://www.facebook.com/ho.hoang.nam.319393)
 ---
 > 🔥 Hungry for growth. Driven to build.
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhnam746/hhnam746/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhnam746/hhnam746/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/hhnam746/hhnam746/output/pacman-contribution-graph.svg">
+</picture>
