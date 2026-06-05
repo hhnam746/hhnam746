@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6700&center=true&vCenter=true&width=800&lines=Greetings+%F0%9F%A6%8A;My+full+name+is+Ho+Hoang+Nam+%F0%9F%98%8B;Hustling+quietly,+building+loudly+%F0%9F%94%A5;Shaping+my+path+in+Business+Analysis+%F0%9F%92%A1;Feel+free+to+explore+my+little+corner+%F0%9F%A6%8A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Berlin+Sans+FB&weight=600&size=28&pause=1000&color=FF6700&center=true&vCenter=true&width=800&lines=Greetings+%F0%9F%A6%8A;My+full+name+is+Ho+Hoang+Nam+%F0%9F%98%8B;Hustling+quietly,+building+loudly+%F0%9F%94%A5;Shaping+my+path+in+Business+Analysis+%F0%9F%92%A1;Feel+free+to+explore+my+little+corner+%F0%9F%A6%8A" />
 </p>
 
 ---
