@@ -1,4 +1,6 @@
-<h1 align="center"><b>Welcome to Nam's page !✌🏼</b></h1>
+<h1 align="center">
+  <b>Welcome to My Learning and Building Journey!👋🏻</b>
+</h1>
 
 <!-- Typing SVG -->
 <p align="center">
