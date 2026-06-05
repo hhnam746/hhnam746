@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Berlin+Sans+FB&weight=600&size=28&pause=1000&color=FF6700&center=true&vCenter=true&width=800&lines=Greetings+%F0%9F%A6%8A;My+full+name+is+Ho+Hoang+Nam+%F0%9F%98%8B;Hustling+quietly,+building+loudly+%F0%9F%94%A5;Shaping+my+path+in+Business+Analysis+%F0%9F%92%A1;Feel+free+to+explore+my+little+corner+%F0%9F%A6%8A" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header"/>
 
 ## 🦊 What I'm Focused On
 
@@ -17,7 +17,7 @@
 - Exploring practical AI applications for real-world problems
 - Growing through projects, mistakes, and a healthy amount of curiosity
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header"/>
 
 ## [![Hồ Hoàng Nam's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hhnam746&bg_color=0D1117&color=FF6700&line=FF6700&point=CDFF00&area=true&area_color=FF8C00&hide_border=true&custom_title=Hồ%20Hoàng%20Nam's%20Contribution%20Graph)](https://github.com/dafox746)
 
@@ -29,7 +29,7 @@
 - Continuously improve through hands-on projects, collaboration, and lifelong learning.
 - Develop a strong portfolio that demonstrates both business thinking and engineering execution.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header"/>
 
 ## 🌟 About Me
 
@@ -48,8 +48,14 @@ Currently, I am focused on strengthening my expertise in:
 - Full-stack Web Development
 - Database Design & API Development
 - Product-Oriented Problem Solving
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Business%20Analysis-FF6700?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-FF6700?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Product%20Thinking-FF6700?style=flat-square&logoColor=white" />
+</p>
   
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header"/>
 
 ## 🏆 Hackathons & Competitions
 
@@ -57,7 +63,7 @@ Currently, I am focused on strengthening my expertise in:
 - **SEAL Hackathon Spring 2026** — Certified Participant | AI RAG & Knowledge Engineering
 - **Swinburne Hackathon 2026** — Certified Participant
   
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header"/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills & Tech Stack</b>
 
@@ -121,14 +127,14 @@ Currently, I am focused on strengthening my expertise in:
   <i>"Hustling quietly, building relentlessly, improving continuously."</i>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header"/>
 
 ## 📫 Reach me at:
 
 - **📧 Gmail:** [dafox746@gmail.com](mailto:dafox746@gmail.com)
 - **📘 Facebook:** [facebook.com/ho.hoang.nam.319393](https://www.facebook.com/ho.hoang.nam.319393)
   
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhnam746/hhnam746/output/pacman-contribution-graph-dark.svg">
