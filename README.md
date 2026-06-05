@@ -129,7 +129,7 @@ Currently, I am focused on strengthening my expertise in:
 - **📧 Gmail:** [dafox746@gmail.com](mailto:dafox746@gmail.com)
 - **📘 Facebook:** [facebook.com/ho.hoang.nam.319393](https://www.facebook.com/ho.hoang.nam.319393)
   
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhnam746/hhnam746/output/pacman-contribution-graph-dark.svg">
