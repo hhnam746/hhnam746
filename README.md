@@ -56,6 +56,7 @@ Currently, I am focused on strengthening my expertise in:
 </p>
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header" width="100%"/>
+
 ## 🏆 Hackathons & Competitions
 
 - **SEAL Hackathon Fall 2025** — Creativity Award | AI Agents for SDLC
