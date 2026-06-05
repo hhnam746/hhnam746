@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Berlin+Sans+FB&weight=600&size=28&pause=1000&color=FF6700&center=true&vCenter=true&width=800&lines=Greetings+%F0%9F%A6%8A;My+full+name+is+Ho+Hoang+Nam+%F0%9F%98%8B;Hustling+quietly,+building+loudly+%F0%9F%94%A5;Shaping+my+path+in+Business+Analysis+%F0%9F%92%A1;Feel+free+to+explore+my+little+corner+%F0%9F%A6%8A" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header" width="100%"/>
 
 ## 🦊 What I'm Focused On
 
@@ -17,8 +17,7 @@
 - Exploring practical AI applications for real-world problems
 - Growing through projects, mistakes, and a healthy amount of curiosity
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header" width="100%"/>
 ## [![Hồ Hoàng Nam's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hhnam746&bg_color=0D1117&color=FF6700&line=FF6700&point=CDFF00&area=true&area_color=FF8C00&hide_border=true&custom_title=Hồ%20Hoàng%20Nam's%20Contribution%20Graph)](https://github.com/dafox746)
 
 ## 🎯 Goals:
@@ -29,8 +28,7 @@
 - Continuously improve through hands-on projects, collaboration, and lifelong learning.
 - Develop a strong portfolio that demonstrates both business thinking and engineering execution.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header" width="100%"/>
 ## 🌟 About Me
 
 I'm an aspiring **Business Analyst & Full-stack Developer** passionate about transforming business ideas into practical software solutions.
@@ -55,16 +53,14 @@ Currently, I am focused on strengthening my expertise in:
   <img src="https://img.shields.io/badge/Product%20Thinking-FF6700?style=flat-square&logoColor=white" />
 </p>
   
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header" width="100%"/>
 ## 🏆 Hackathons & Competitions
 
 - **SEAL Hackathon Fall 2025** — Creativity Award | AI Agents for SDLC
 - **SEAL Hackathon Spring 2026** — Certified Participant | AI RAG & Knowledge Engineering
 - **Swinburne Hackathon 2026** — Certified Participant
   
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header" width="100%"/>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills & Tech Stack</b>
 
 ### Languages
@@ -127,8 +123,7 @@ Currently, I am focused on strengthening my expertise in:
   <i>"Hustling quietly, building relentlessly, improving continuously."</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6700&height=2&section=header" width="100%"/>
 ## 📫 Reach me at:
 
 - **📧 Gmail:** [dafox746@gmail.com](mailto:dafox746@gmail.com)
