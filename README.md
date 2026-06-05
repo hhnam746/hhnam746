@@ -48,7 +48,15 @@ Currently, I am focused on strengthening my expertise in:
 - Full-stack Web Development
 - Database Design & API Development
 - Product-Oriented Problem Solving
+  
+---
 
+## 🏆 Hackathons & Competitions
+
+- **SEAL Hackathon Fall 2025** — Creativity Award | AI Agents for SDLC
+- **SEAL Hackathon Spring 2026** — Certified Participant | AI RAG & Knowledge Engineering
+- **Swinburne Hackathon 2026** — Certified Participant
+  
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills & Tech Stack</b>
