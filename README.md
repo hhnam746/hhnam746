@@ -127,9 +127,7 @@ Currently, I am focused on strengthening my expertise in:
 
 - **📧 Gmail:** [dafox746@gmail.com](mailto:dafox746@gmail.com)
 - **📘 Facebook:** [facebook.com/ho.hoang.nam.319393](https://www.facebook.com/ho.hoang.nam.319393)
----
-> 🔥 Hungry for growth. Driven to build.
-
+  
 ---
 
 <picture>
