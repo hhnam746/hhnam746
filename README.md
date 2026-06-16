@@ -61,7 +61,7 @@ Currently, I am focused on strengthening my expertise in:
 
 - **SEAL Hackathon Fall 2025** — Creativity Award | AI Agents for SDLC
 - **SEAL Hackathon Spring 2026** — Certified Participant | AI RAG & Knowledge Engineering
-- **Swinburne Hackathon 2026** — Certified Participant
+- **Swinburne Hackathon 2026** — Certificate of Achievement
   
 ---
 
